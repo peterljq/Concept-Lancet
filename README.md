@@ -40,3 +40,15 @@ Run the examples with:
 ```bash
 python test_decomposition.py
 ```
+
+## BibTeX
+If you find our work helpful, please consider citing our paper:
+
+```
+@inproceedings{luo2025concept,
+    title={Concept Lancet: Image Editing with Compositional Representation Transplant},
+    author={Jinqi Luo and Tianjiao Ding and Kwan Ho Ryan Chan and Hancheng Min and Chris Callison-Burch and Rene Vidal},
+    booktitle={CVPR},
+    year={2025}
+}
+```
